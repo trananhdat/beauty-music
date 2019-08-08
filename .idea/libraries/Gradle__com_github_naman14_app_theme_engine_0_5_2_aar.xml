@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.naman14:app-theme-engine:0.5.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/fa39d535839fe501f83ca946b1a03369/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/fa39d535839fe501f83ca946b1a03369/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/app-theme-engine-0.5.2.aar/fa39d535839fe501f83ca946b1a03369/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.naman14/app-theme-engine/0.5.2/abdd3a82848a14dbfc83b8e57c8d36d38ed80def/app-theme-engine-0.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
